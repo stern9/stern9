@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi, I'm Avram 👋
 
+Full-stack developer with 10+ years of experience. I move across the stack and prioritize clear, practical solutions. Most of my work has been on private repositories and work accounts, you'll find my personal projects and open source contributions here.
+
+## 💼 Professional Work
+For professional inquiries, connect with me on [LinkedIn](https://www.linkedin.com/in/stern9/) or check out my [portfolio](https://stern9.dev/).
 <!--
 **stern9/stern9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
